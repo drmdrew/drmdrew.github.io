@@ -1,0 +1,12 @@
+name = "Winterlong"
+license = "MIT"
+licenselink = "https://github.com/drmdrew/winterlong/blob/master/LICENSE.md"
+description = "Winterlong is sparse and clean Hugo theme"
+homepage = "http://dreamdrew.ca/"
+tags = ["", ""]
+features = ["", ""]
+min_version = 0.17
+
+[author]
+  name = "Drew MacInnis"
+

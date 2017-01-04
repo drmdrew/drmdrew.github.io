@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>dreamdrew.ca</title>
+        <style type="text/css">
+            h1 { color: blue; }
+        </style>
+    </head>
+    <body>
+        {{ range first 10 .Data.Pages }}
+            {{ if eq .Type "post" }}
+                <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+            {{ end }}
+        {{ end }}
+        <script type="text/javascript">
+            console.log("Welcome to dreamdrew.ca");
+        </script>
+    </body>
+</html>
