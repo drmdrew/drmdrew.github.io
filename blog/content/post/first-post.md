@@ -1,7 +1,7 @@
 +++
 title = "first post"
-draft = true
-date = "2017-01-04T12:27:21-05:00"
+draft = false
+date = "2017-01-04T14:05:37-05:00"
 +++
 
 I decided over the holidays that I'd like to learn more about [hugo][1] and
