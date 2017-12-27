@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post-rsses on dreamdrew.ca</title>
-    <link>http://dreamdrew.ca/post/index.xml</link>
+    <link>http://dreamdrew.ca/public/post/index.xml</link>
     <description>Recent content in Post-rsses on dreamdrew.ca</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Jan 2017 14:05:37 -0500</lastBuildDate>
-    <atom:link href="http://dreamdrew.ca/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://dreamdrew.ca/public/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>first post</title>
-      <link>http://dreamdrew.ca/post/first-post/</link>
+      <link>http://dreamdrew.ca/public/post/first-post/</link>
       <pubDate>Wed, 04 Jan 2017 14:05:37 -0500</pubDate>
       
-      <guid>http://dreamdrew.ca/post/first-post/</guid>
+      <guid>http://dreamdrew.ca/public/post/first-post/</guid>
       <description>&lt;p&gt;I decided over the holidays that I&amp;rsquo;d like to learn more about &lt;a href=&#34;https://gohugo.io&#34;&gt;hugo&lt;/a&gt; and
 figured that using hugo to add a blog to my site would be a good way to
 learn &lt;em&gt;and&lt;/em&gt; give me a place to blog.&lt;/p&gt;
