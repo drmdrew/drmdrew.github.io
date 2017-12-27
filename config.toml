@@ -1,4 +1,4 @@
-baseurl = "http://dreamdrew.ca/blog/"
+baseurl = "http://dreamdrew.ca/"
 title = "dreamdrew.ca"
 languageCode = "en-us"
 theme = "winterlong"
