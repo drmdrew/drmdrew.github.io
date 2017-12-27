@@ -15,3 +15,4 @@ to be useful.
 
 [1]: https://gohugo.io
 [2]: http://themes.gohugo.io/theme/hugo-theme-foundation6-blog/2014/09/creating-a-new-theme/
+[3]: https://gohugo.io/hosting-and-deployment/hosting-on-github/
