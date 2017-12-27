@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dreamdrew.ca</title>
+    <link>http://dreamdrew.ca/blog/index.xml</link>
+    <description>Recent content on dreamdrew.ca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Jan 2017 14:05:37 -0500</lastBuildDate>
+    <atom:link href="http://dreamdrew.ca/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first post</title>
+      <link>http://dreamdrew.ca/blog/post/first-post/</link>
+      <pubDate>Wed, 04 Jan 2017 14:05:37 -0500</pubDate>
+      
+      <guid>http://dreamdrew.ca/blog/post/first-post/</guid>
+      <description>&lt;p&gt;I decided over the holidays that I&amp;rsquo;d like to learn more about &lt;a href=&#34;https://gohugo.io&#34;&gt;hugo&lt;/a&gt; and
+figured that using hugo to add a blog to my site would be a good way to
+learn &lt;em&gt;and&lt;/em&gt; give me a place to blog.&lt;/p&gt;
+
+&lt;p&gt;I started with the hugo documentation and wanted to start building a new
+hugo theme from scratch. I found &lt;a href=&#34;http://themes.gohugo.io/theme/hugo-theme-foundation6-blog/2014/09/creating-a-new-theme/&#34;&gt;this tutorial on creating a new theme&lt;/a&gt;
+to be useful.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
