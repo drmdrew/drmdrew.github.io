@@ -1,0 +1,10 @@
+baseurl: "https://dreamdrew.ca/"
+title: "dreamdrew.ca"
+languageCode: "en-us"
+theme: "ananke"
+featured_image: "/images/drmdrew-hero-background.jpg"
+params:
+    github: "https://github.com/drmdrew"
+    twitter: "https://twitter.com/drmdrew"
+    linkedin: "https://linkedin.com/in/drewmacinnis/"
+

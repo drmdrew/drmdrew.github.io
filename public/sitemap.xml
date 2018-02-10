@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dreamdrew.ca/public/</loc>
+    <loc>https://dreamdrew.ca/post/first-post/</loc>
     <lastmod>2017-01-04T14:05:37-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dreamdrew.ca/public/post/first-post/</loc>
+    <loc>https://dreamdrew.ca/</loc>
     <lastmod>2017-01-04T14:05:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dreamdrew.ca/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dreamdrew.ca/post/</loc>
+    <lastmod>2017-01-04T14:05:37-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dreamdrew.ca/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
